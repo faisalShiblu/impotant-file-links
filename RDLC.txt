@@ -1,0 +1,18 @@
+First Update Visual Studio [Modify => Check on SQL Data]
+
+
+RDLC
+https://www.youtube.com/watch?v=2q42e7UGssc
+http://www.dotnetawesome.com/2013/09/microsoft-report-in-mvc-4.html
+
+
+Report Wizard
+https://www.aspsnippets.com/Articles/Implementing-RDLC-Reports-in-ASPNet-MVC.aspx
+
+
+Bangla Tutorials
+https://www.youtube.com/watch?v=vghq6gLI8ss
+
+
+
+

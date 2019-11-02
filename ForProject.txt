@@ -1,0 +1,5 @@
+***Thirdparty Autentication
+***Password Recovery => Mail Send
+***Registration => Email confirmation => Active
+***User feedback => Mail Send => Database => Notification To Admin [Reunion Program]
+***Report[RDLC]

@@ -1,0 +1,14 @@
+*Validation
+*JSON Ajax
+*Display Format
+*Authentication and Authorization
+*Authentication and Authorization Extra
+*Pop Up
+*Filtreing
+*Pagination
+*Sorting
+*Api
+*Storeprocedure
+*WCF
+*SignalR
+*AngularJS
